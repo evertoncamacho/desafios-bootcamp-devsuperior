@@ -4,3 +4,4 @@
 
 - [x] Desafio do Capítulo 01
 - [x] Desafio do Capítulo 02
+- [x] Desafio do Capítulo 03
